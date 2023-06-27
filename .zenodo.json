@@ -1,0 +1,19 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "Vicente Zapatero Martin",
+            "name": "Zapatero Martin, Vicente"
+        }
+    ],
+
+    "license": "Apache-2.0",
+
+    "title": "Repositorio de pruebas",
+
+    "keywords": ["zenodo", "pruebas"],
+
+    "communities": [
+        {"identifier": "vzapatero123456"}
+    ]
+}
